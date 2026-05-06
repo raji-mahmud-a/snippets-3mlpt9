@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://raji-mahmud-a.github.io/snippets-3mlpt9/sitemap.xml
